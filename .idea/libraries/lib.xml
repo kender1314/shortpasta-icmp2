@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/platform-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/shortpasta-icmp2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jna-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

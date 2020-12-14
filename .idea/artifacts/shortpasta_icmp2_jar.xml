@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shortpasta-icmp2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shortpasta_icmp2_jar</output-path>
+    <root id="archive" name="shortpasta-icmp2.jar">
+      <element id="module-output" name="shortpasta-icmp2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/platform-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jna-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/shortpasta-icmp2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
